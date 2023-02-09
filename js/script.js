@@ -9,5 +9,6 @@ $(document).ready(function () {
                 inp[i].classList.remove("error");
             }
         }
+        
     })
 });
