@@ -1,1 +1,2 @@
-# JQuery-validation-new-version
+# Git-hub-jQuery-validation-requaried
+Git hub jQuery validation requaried
